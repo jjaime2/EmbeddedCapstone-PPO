@@ -1,0 +1,14 @@
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\src\qf\qf_qact.c
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\ports\arm-cm\qxk\arm\qf_port.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\ports\arm-cm\qxk\arm\qep_port.h
+.\output\qf_qact.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\qf_qact.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\include\qep.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\ports\arm-cm\qxk\arm\qxk_port.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\include\qxk.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\include\qequeue.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\include\qmpool.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\include\qpset.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\include\qf.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\include\qxthread.h
+.\output\qf_qact.o: ..\..\..\Libraries\qpc\src\qf_pkg.h
